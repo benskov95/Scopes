@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Uge 8 - mere jsp og servlet" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Uge 8 - mere jsp og servlet" options="-endorseddirs &quot;C:\Users\mozuh\Documents\javakode\2020 - 2. semester\Uge 8 - mere jsp og servlet\target/endorsed&quot;" />
+    </option>
+  </component>
+</project>
